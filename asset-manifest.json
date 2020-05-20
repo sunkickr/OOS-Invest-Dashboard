@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/sunkickr/OOS-Invest-Dashboard.git/static/css/main.d61a7ccf.chunk.css",
-    "main.js": "/sunkickr/OOS-Invest-Dashboard.git/static/js/main.becd51af.chunk.js",
-    "main.js.map": "/sunkickr/OOS-Invest-Dashboard.git/static/js/main.becd51af.chunk.js.map",
-    "runtime-main.js": "/sunkickr/OOS-Invest-Dashboard.git/static/js/runtime-main.d4548789.js",
-    "runtime-main.js.map": "/sunkickr/OOS-Invest-Dashboard.git/static/js/runtime-main.d4548789.js.map",
-    "static/css/2.a01b3a6f.chunk.css": "/sunkickr/OOS-Invest-Dashboard.git/static/css/2.a01b3a6f.chunk.css",
-    "static/js/2.dda47e6c.chunk.js": "/sunkickr/OOS-Invest-Dashboard.git/static/js/2.dda47e6c.chunk.js",
-    "static/js/2.dda47e6c.chunk.js.map": "/sunkickr/OOS-Invest-Dashboard.git/static/js/2.dda47e6c.chunk.js.map",
-    "index.html": "/sunkickr/OOS-Invest-Dashboard.git/index.html",
-    "precache-manifest.a2514ea9df95eb615f7075c67f857032.js": "/sunkickr/OOS-Invest-Dashboard.git/precache-manifest.a2514ea9df95eb615f7075c67f857032.js",
-    "service-worker.js": "/sunkickr/OOS-Invest-Dashboard.git/service-worker.js",
-    "static/css/2.a01b3a6f.chunk.css.map": "/sunkickr/OOS-Invest-Dashboard.git/static/css/2.a01b3a6f.chunk.css.map",
-    "static/css/main.d61a7ccf.chunk.css.map": "/sunkickr/OOS-Invest-Dashboard.git/static/css/main.d61a7ccf.chunk.css.map",
-    "static/js/2.dda47e6c.chunk.js.LICENSE.txt": "/sunkickr/OOS-Invest-Dashboard.git/static/js/2.dda47e6c.chunk.js.LICENSE.txt",
-    "static/media/semantic.min.css": "/sunkickr/OOS-Invest-Dashboard.git/static/media/outline-icons.ef60a4f6.woff"
+    "main.css": "/sunkickr/OOS-Invest-Dashboard/static/css/main.d61a7ccf.chunk.css",
+    "main.js": "/sunkickr/OOS-Invest-Dashboard/static/js/main.715e5aa1.chunk.js",
+    "main.js.map": "/sunkickr/OOS-Invest-Dashboard/static/js/main.715e5aa1.chunk.js.map",
+    "runtime-main.js": "/sunkickr/OOS-Invest-Dashboard/static/js/runtime-main.3e699236.js",
+    "runtime-main.js.map": "/sunkickr/OOS-Invest-Dashboard/static/js/runtime-main.3e699236.js.map",
+    "static/css/2.900c2940.chunk.css": "/sunkickr/OOS-Invest-Dashboard/static/css/2.900c2940.chunk.css",
+    "static/js/2.dda47e6c.chunk.js": "/sunkickr/OOS-Invest-Dashboard/static/js/2.dda47e6c.chunk.js",
+    "static/js/2.dda47e6c.chunk.js.map": "/sunkickr/OOS-Invest-Dashboard/static/js/2.dda47e6c.chunk.js.map",
+    "index.html": "/sunkickr/OOS-Invest-Dashboard/index.html",
+    "precache-manifest.5a7d04f7d3654a235f1c17cef0a3448a.js": "/sunkickr/OOS-Invest-Dashboard/precache-manifest.5a7d04f7d3654a235f1c17cef0a3448a.js",
+    "service-worker.js": "/sunkickr/OOS-Invest-Dashboard/service-worker.js",
+    "static/css/2.900c2940.chunk.css.map": "/sunkickr/OOS-Invest-Dashboard/static/css/2.900c2940.chunk.css.map",
+    "static/css/main.d61a7ccf.chunk.css.map": "/sunkickr/OOS-Invest-Dashboard/static/css/main.d61a7ccf.chunk.css.map",
+    "static/js/2.dda47e6c.chunk.js.LICENSE.txt": "/sunkickr/OOS-Invest-Dashboard/static/js/2.dda47e6c.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/sunkickr/OOS-Invest-Dashboard/static/media/outline-icons.ef60a4f6.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.d4548789.js",
-    "static/css/2.a01b3a6f.chunk.css",
+    "static/js/runtime-main.3e699236.js",
+    "static/css/2.900c2940.chunk.css",
     "static/js/2.dda47e6c.chunk.js",
     "static/css/main.d61a7ccf.chunk.css",
-    "static/js/main.becd51af.chunk.js"
+    "static/js/main.715e5aa1.chunk.js"
   ]
 }
