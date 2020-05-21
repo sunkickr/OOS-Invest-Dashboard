@@ -1,1 +1,0 @@
-{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,MACI,YACJ,CAEA,MACI,UAAU,CACV,WACJ","file":"main.d61a7ccf.chunk.css","sourcesContent":[".main {\n    padding: 1rem;\n}\n\n.cell {\n    width:10px;\n    height:10px;\n}"]}

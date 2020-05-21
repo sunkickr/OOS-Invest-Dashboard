@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "987bd83ec519fc658487583d0c31cca9",
+    "revision": "83a5620b6bf1a6917238559391e26f1f",
     "url": "/OOS-Invest-Dashboard/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/OOS-Invest-Dashboard/static/css/2.7d15533c.chunk.css"
   },
   {
-    "revision": "78efb8da2adbb943ba20",
-    "url": "/OOS-Invest-Dashboard/static/css/main.d61a7ccf.chunk.css"
+    "revision": "1974b099a1c47248ef02",
+    "url": "/OOS-Invest-Dashboard/static/css/main.ebe068fd.chunk.css"
   },
   {
     "revision": "259a21e830cc789a4c0c",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/OOS-Invest-Dashboard/static/js/2.dda47e6c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "78efb8da2adbb943ba20",
-    "url": "/OOS-Invest-Dashboard/static/js/main.7af71284.chunk.js"
+    "revision": "1974b099a1c47248ef02",
+    "url": "/OOS-Invest-Dashboard/static/js/main.91d6b19f.chunk.js"
   },
   {
     "revision": "420f06a4319c36ddc11a",

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/OOS-Invest-Dashboard/precache-manifest.4f15b9d145c880453503f8fdc85df243.js"
+  "/OOS-Invest-Dashboard/precache-manifest.62ba3c158e9e38f00993bb11dacce30e.js"
 );
 
 self.addEventListener('message', (event) => {
