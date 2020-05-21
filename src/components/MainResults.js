@@ -44,7 +44,10 @@ export default function InfoForm() {
                             </Table>
                         </GridColumn>
                         <GridColumn>
-                            <Chart data={data}/>
+                            <div className="pie">
+                                <Chart data={data}/>
+                            </div>
+                            
                         </GridColumn>
                     </Grid.Row>
                 </Grid>
