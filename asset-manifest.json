@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/OOS-Invest-Dashboard/static/css/main.ebe068fd.chunk.css",
-    "main.js": "/OOS-Invest-Dashboard/static/js/main.91d6b19f.chunk.js",
-    "main.js.map": "/OOS-Invest-Dashboard/static/js/main.91d6b19f.chunk.js.map",
+    "main.js": "/OOS-Invest-Dashboard/static/js/main.aef7ec61.chunk.js",
+    "main.js.map": "/OOS-Invest-Dashboard/static/js/main.aef7ec61.chunk.js.map",
     "runtime-main.js": "/OOS-Invest-Dashboard/static/js/runtime-main.50ce21ac.js",
     "runtime-main.js.map": "/OOS-Invest-Dashboard/static/js/runtime-main.50ce21ac.js.map",
-    "static/css/2.7d15533c.chunk.css": "/OOS-Invest-Dashboard/static/css/2.7d15533c.chunk.css",
-    "static/js/2.dda47e6c.chunk.js": "/OOS-Invest-Dashboard/static/js/2.dda47e6c.chunk.js",
-    "static/js/2.dda47e6c.chunk.js.map": "/OOS-Invest-Dashboard/static/js/2.dda47e6c.chunk.js.map",
+    "static/css/2.436c5147.chunk.css": "/OOS-Invest-Dashboard/static/css/2.436c5147.chunk.css",
+    "static/js/2.ca5643fa.chunk.js": "/OOS-Invest-Dashboard/static/js/2.ca5643fa.chunk.js",
+    "static/js/2.ca5643fa.chunk.js.map": "/OOS-Invest-Dashboard/static/js/2.ca5643fa.chunk.js.map",
     "index.html": "/OOS-Invest-Dashboard/index.html",
-    "precache-manifest.62ba3c158e9e38f00993bb11dacce30e.js": "/OOS-Invest-Dashboard/precache-manifest.62ba3c158e9e38f00993bb11dacce30e.js",
+    "precache-manifest.4fba882ee2a724585fbee5f3cc8f3b33.js": "/OOS-Invest-Dashboard/precache-manifest.4fba882ee2a724585fbee5f3cc8f3b33.js",
     "service-worker.js": "/OOS-Invest-Dashboard/service-worker.js",
-    "static/css/2.7d15533c.chunk.css.map": "/OOS-Invest-Dashboard/static/css/2.7d15533c.chunk.css.map",
+    "static/css/2.436c5147.chunk.css.map": "/OOS-Invest-Dashboard/static/css/2.436c5147.chunk.css.map",
     "static/css/main.ebe068fd.chunk.css.map": "/OOS-Invest-Dashboard/static/css/main.ebe068fd.chunk.css.map",
-    "static/js/2.dda47e6c.chunk.js.LICENSE.txt": "/OOS-Invest-Dashboard/static/js/2.dda47e6c.chunk.js.LICENSE.txt",
+    "static/js/2.ca5643fa.chunk.js.LICENSE.txt": "/OOS-Invest-Dashboard/static/js/2.ca5643fa.chunk.js.LICENSE.txt",
     "static/media/semantic.min.css": "/OOS-Invest-Dashboard/static/media/outline-icons.ef60a4f6.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.50ce21ac.js",
-    "static/css/2.7d15533c.chunk.css",
-    "static/js/2.dda47e6c.chunk.js",
+    "static/css/2.436c5147.chunk.css",
+    "static/js/2.ca5643fa.chunk.js",
     "static/css/main.ebe068fd.chunk.css",
-    "static/js/main.91d6b19f.chunk.js"
+    "static/js/main.aef7ec61.chunk.js"
   ]
 }

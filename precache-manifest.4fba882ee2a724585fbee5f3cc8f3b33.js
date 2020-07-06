@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "83a5620b6bf1a6917238559391e26f1f",
+    "revision": "9864949cea5d5666691cf14ad91883b3",
     "url": "/OOS-Invest-Dashboard/index.html"
   },
   {
-    "revision": "259a21e830cc789a4c0c",
-    "url": "/OOS-Invest-Dashboard/static/css/2.7d15533c.chunk.css"
+    "revision": "e6b4d1b3495181ee421f",
+    "url": "/OOS-Invest-Dashboard/static/css/2.436c5147.chunk.css"
   },
   {
-    "revision": "1974b099a1c47248ef02",
+    "revision": "71af3da4432b40d5dc4a",
     "url": "/OOS-Invest-Dashboard/static/css/main.ebe068fd.chunk.css"
   },
   {
-    "revision": "259a21e830cc789a4c0c",
-    "url": "/OOS-Invest-Dashboard/static/js/2.dda47e6c.chunk.js"
+    "revision": "e6b4d1b3495181ee421f",
+    "url": "/OOS-Invest-Dashboard/static/js/2.ca5643fa.chunk.js"
   },
   {
-    "revision": "9aa3af9d345e2114645659651afe9e68",
-    "url": "/OOS-Invest-Dashboard/static/js/2.dda47e6c.chunk.js.LICENSE.txt"
+    "revision": "431499c13332251f7c58d3310f8b85d1",
+    "url": "/OOS-Invest-Dashboard/static/js/2.ca5643fa.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1974b099a1c47248ef02",
-    "url": "/OOS-Invest-Dashboard/static/js/main.91d6b19f.chunk.js"
+    "revision": "71af3da4432b40d5dc4a",
+    "url": "/OOS-Invest-Dashboard/static/js/main.aef7ec61.chunk.js"
   },
   {
     "revision": "420f06a4319c36ddc11a",
