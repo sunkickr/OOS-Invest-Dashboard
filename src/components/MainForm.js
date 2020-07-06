@@ -83,7 +83,8 @@ function MainForm() {
                         valueLabelDisplay="off"
                         onChange={ (e, value) => {
                             setForm({...form,
-                                purchaseprice: parseInt(value*1000)})
+                                purchaseprice: parseInt(value*1000),
+                                toggle: "purchaseprice"})
                             console.log(form)
                             }}/>
                     </div>
@@ -110,18 +111,41 @@ function MainForm() {
                     </div>
                 </Form.Group>
                 <Header as='h3'>Loan Information:</Header>
-                <Form.Group >
-                   <label>Down Payment:</label>
-                    <Form.Input lable='$' type="number" placeholder="$0"
-                        value={form.downpayment}
+                <Form.Group>
+                    
+                    <label>Loan Amount: $</label>
+                    <Form.Input  type="number" placeholder="$0"
+                        value={state.form.mortgage}
                         onChange={ e => {
                             setForm({...form,
-                                downpayment: parseInt(e.target.value)})}}/>
+                                mortgage: parseInt(e.target.value),
+                                toggle: "mortgage"})
+                            console.log(form)
+                            }}/>
+                  
+                </Form.Group>
+                <Form.Group inline>
+                   <label>Down Payment: $</label>
+                    <Form.Input lable='$' type="number" placeholder="$0"
+                        value={state.form.downpayment}
+                        onChange={ e => {
+                            setForm({...form,
+                                downpayment: parseInt(e.target.value),
+                                toggle: "downpayment"})}}/>
+                    <Form.Input label = 'Percentage(%):' type="number" style={{width: "60px"}} placeholder="0%"
+                      value = {state.form.percentage}
+                      onChange={ e => {
+                        setForm({
+                          ...form,
+                          percentage: parseInt(e.target.value),
+                          toggle: "percentage"
+                        })
+                      }}/>
                 </Form.Group>
                 <Form.Group inline >
                     <label>Interest Rate:</label>
                     <Form.Input  type="number" placeholder="3%"
-                        value={form.interestrate}
+                        value={state.form.interestrate}
                         onChange={ e => {
                             setForm({...form,
                                 interestrate: parseInt(e.target.value)})
@@ -130,7 +154,7 @@ function MainForm() {
                         fluid
                         label='Loan Term:'
                         options={options}
-                        value={form.loanterm}
+                        value={state.form.loanterm}
                         placeholder='years'
                         onChange={ (e,{value}) => {
                             setForm({...form,
